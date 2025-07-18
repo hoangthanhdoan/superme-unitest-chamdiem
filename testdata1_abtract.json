@@ -1,0 +1,124 @@
+{
+    "items": [
+      {
+        "value1": "5",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (4631).jpg",
+        "input1": "1",
+        "isCorrect1": false
+      },
+      {
+        "value1": "4",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (2880).jpg",
+        "input1": "2",
+        "isCorrect1": false
+      },
+      {
+        "value1": "1",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (5697).jpg",
+        "input1": "3",
+        "isCorrect1": false
+      },
+      {
+        "value1": "3",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (5161).jpg",
+        "input1": "4",
+        "isCorrect1": false
+      },
+      {
+        "value1": "2",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (274).jpg",
+        "input1": "5",
+        "isCorrect1": false
+      },
+      {
+        "value1": "2",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (279).jpg",
+        "input1": "5",
+        "isCorrect1": false
+      },
+      {
+        "value1": "4",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (2070).jpg",
+        "input1": "4",
+        "isCorrect1": true
+      },
+      {
+        "value1": "1",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (1944).jpg",
+        "input1": "1",
+        "isCorrect1": true
+      },
+      {
+        "value1": "5",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (423).jpg",
+        "input1": "2",
+        "isCorrect1": false
+      },
+      {
+        "value1": "3",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (6139).jpg",
+        "input1": "1",
+        "isCorrect1": false
+      },
+      {
+        "value1": "2",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (6301).jpg",
+        "input1": "2",
+        "isCorrect1": true
+      },
+      {
+        "value1": "1",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (4806).jpg",
+        "input1": "1",
+        "isCorrect1": true
+      },
+      {
+        "value1": "3",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (1287).jpg",
+        "input1": "3",
+        "isCorrect1": true
+      },
+      {
+        "value1": "4",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (2364).jpg",
+        "input1": "4",
+        "isCorrect1": true
+      },
+      {
+        "value1": "5",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (2913).jpg",
+        "input1": "5",
+        "isCorrect1": true
+      },
+      {
+        "value1": "4",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (4864).jpg",
+        "input1": "4",
+        "isCorrect1": true
+      },
+      {
+        "value1": "2",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (5437).jpg",
+        "input1": "2",
+        "isCorrect1": true
+      },
+      {
+        "value1": "3",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (5848).jpg",
+        "input1": "3",
+        "isCorrect1": true
+      },
+      {
+        "value1": "5",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (2076).jpg",
+        "input1": "1",
+        "isCorrect1": false
+      },
+      {
+        "value1": "1",
+        "value2": "https://s3.superme.tamtriluc.vn/competitions/images/abstracts/2017Abstracts (3346).jpg",
+        "input1": "5",
+        "isCorrect1": false
+      }
+    ]
+  }

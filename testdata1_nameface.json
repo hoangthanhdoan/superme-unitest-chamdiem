@@ -1,0 +1,148 @@
+{
+    "items": [
+      {
+        "value1": "Gwak",
+        "value2": "Aristide",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-male-middle/face_128.jpg",
+        "input1": "GWAK",
+        "input2": "aristide",
+        "isCorrect1": true,
+        "isCorrect2": true
+      },
+      {
+        "value1": "Ching",
+        "value2": "Asamoah",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-male-middle/face_115.jpg",
+        "input1": "ching",
+        "input2": "asamaoh",
+        "isCorrect1": true,
+        "isCorrect2": false
+      },
+      {
+        "value1": "Chew",
+        "value2": "Remy",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-male-adult/face_58.jpg",
+        "input1": "",
+        "input2": "",
+        "isCorrect1": false,
+        "isCorrect2": false
+      },
+      {
+        "value1": "Parker",
+        "value2": "Cut",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-female-child/face_165.jpg",
+        "input1": "Parker",
+        "input2": "cut",
+        "isCorrect1": true,
+        "isCorrect2": true
+      },
+      {
+        "value1": "Garrido",
+        "value2": "Landon",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-male-youngadult/face_36.jpg",
+        "input1": "garido",
+        "input2": "landon",
+        "isCorrect1": false,
+        "isCorrect2": true
+      },
+      {
+        "value1": "Gyan",
+        "value2": "Eloise",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-female-youngadult/face_124.jpg",
+        "input1": "",
+        "input2": "",
+        "isCorrect1": false,
+        "isCorrect2": false
+      },
+      {
+        "value1": "Tarasov",
+        "value2": "Bahaa",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-male-child/face_41.jpg",
+        "input1": "tarasov",
+        "input2": "Bahaa",
+        "isCorrect1": true,
+        "isCorrect2": true
+      },
+      {
+        "value1": "Ashbolt",
+        "value2": "Cathy",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-female-middle/face_31.jpg",
+        "input1": "Ashbolt",
+        "input2": "Cathy",
+        "isCorrect1": true,
+        "isCorrect2": true
+      },
+      {
+        "value1": "Aminath",
+        "value2": "Grant",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-male-adult/face_111.jpg",
+        "input1": "",
+        "input2": "",
+        "isCorrect1": false,
+        "isCorrect2": false
+      },
+      {
+        "value1": "Gardiner",
+        "value2": "Aneta",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-female-middle/face_25.jpg",
+        "input1": "",
+        "input2": "",
+        "isCorrect1": false,
+        "isCorrect2": false
+      },
+      {
+        "value1": "Antonov",
+        "value2": "Anis",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-male-middle/face_121.jpg",
+        "input1": "",
+        "input2": "",
+        "isCorrect1": false,
+        "isCorrect2": false
+      },
+      {
+        "value1": "Pratt",
+        "value2": "Charity",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-female-adult/face_22.jpg",
+        "input1": "",
+        "input2": "",
+        "isCorrect1": false,
+        "isCorrect2": false
+      },
+      {
+        "value1": "Fares",
+        "value2": "Adelyn",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-female-middle/face_63.jpg",
+        "input1": "",
+        "input2": "",
+        "isCorrect1": false,
+        "isCorrect2": false
+      },
+      {
+        "value1": "Kraus",
+        "value2": "Alisa",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-female-adult/face_139.jpg",
+        "input1": "",
+        "input2": "",
+        "isCorrect1": false,
+        "isCorrect2": false
+      },
+      {
+        "value1": "Santos",
+        "value2": "Haziqah",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-female-youngadult/face_97.jpg",
+        "input1": "",
+        "input2": "",
+        "isCorrect1": false,
+        "isCorrect2": false
+      },
+      {
+        "value1": "Pop",
+        "value2": "Justin",
+        "value3": "https://s3.superme.tamtriluc.vn/competitions/images/faces_and_names/faces_and_names/white-male-youngadult/face_138.jpg",
+        "input1": "",
+        "input2": "",
+        "isCorrect1": false,
+        "isCorrect2": false
+      }
+    ]
+  }
