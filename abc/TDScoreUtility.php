@@ -161,7 +161,7 @@ class TDScoreUtility
 
         for ($c = 0; $c < $this->column; $c++) {
             $questionItemDict = $this->valueOfCell($r, $c, $questions);
-            if (isset($questionItemDict['isMissSpelling']) && $questionItemDict['isMissSpelling']) {
+            if (isset($questionItemDict['missSpelling']) && $questionItemDict['missSpelling']) {
                 $missSpellingCount++;
             }
         }
@@ -413,8 +413,6 @@ class TDScoreUtility
                         if ($matchingWordReview && $matchingWordReview->final_conclusion == 3) {
                             $re_questionItemDict['isMissSpelling'] = true;
                         }
-                        if $re_questionItemDict['isMissSpelling_'] == true then $re_questionItemDict['isCorrect1'] = false
-                        
                     }
 
                 }

@@ -1,0 +1,2404 @@
+{
+    "items": [
+      {
+        "value1": "làm đổ",
+        "input1": "làm đổ",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dầu gội",
+        "input1": "dầu gôi",
+        "isCorrect1_": true,
+        "isMissSpelling_": true
+      },
+      {
+        "value1": "cuốn chiếu",
+        "input1": "cuốn chiếu",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thủ mỏ vịt",
+        "input1": "thú mỏ vit",
+        "isCorrect1_": true,
+        "isMissSpelling_": true
+      },
+      {
+        "value1": "đinh giày",
+        "input1": "đinh giày",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nâng cao",
+        "input1": "nâng cao",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tờ báo",
+        "input1": "tờ báo",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thiếu niên",
+        "input1": "thiếu niên",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "khe nứt",
+        "input1": "khe nứt",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "xà phòng",
+        "input1": "xà phòng",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sung",
+        "input1": "sung",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bộ dao động",
+        "input1": "bộ dao động",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chồn nâu",
+        "input1": "chồn nâu",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "phân tích",
+        "input1": "phân tích",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "phòng thu",
+        "input1": "phòng thu",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lông mày",
+        "input1": "lông mày",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vi kế",
+        "input1": "vi kế",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "người hướng dẫn",
+        "input1": "người hương dẫn",
+        "isCorrect1_": true,
+        "isMissSpelling_": true
+      },
+      {
+        "value1": "quá trình lây truyền",
+        "input1": "quá trình lây lan",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sân vận động",
+        "input1": "sân vận động",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "trung úy",
+        "input1": "trung úy",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cà vạt",
+        "input1": "cà vạt",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "làng",
+        "input1": "làng",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "trực thăng",
+        "input1": "trực thăng",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "rêu",
+        "input1": "rêu",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "quản lý",
+        "input1": "quản lí",
+        "isCorrect1_": true,
+        "isMissSpelling_": true
+      },
+      {
+        "value1": "công",
+        "input1": "công",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "xuồng gỗ",
+        "input1": "xuồng gỗ",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bím tóc",
+        "input1": "bím tóc",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "khả năng nhìn xa",
+        "input1": "có tầm nhìn xa",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chiếc nhẫn",
+        "input1": "chiếc nhẫn",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đồ thêu",
+        "input1": "đồ thêu",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bầu trời",
+        "input1": "bầu trời",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "phòng bệnh",
+        "input1": "thính phòng",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lữ đoàn",
+        "input1": "lữ đoàn",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sách cổ",
+        "input1": "sách cổ",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ghế đẩu",
+        "input1": "ghế đẩu",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bọt",
+        "input1": "bọt",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thiếc",
+        "input1": "thiếc",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nhỏ giọt",
+        "input1": "nhỏ giọt",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thực thể",
+        "input1": "thực thể",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "trọng tài",
+        "input1": "trọng tài",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đường nhỏ",
+        "input1": "đường nhỏ",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bà ngoại",
+        "input1": "bà ngoại",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đất mùn",
+        "input1": "đất mùn",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tỉ lệ",
+        "input1": "tỉ lệ",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "phô mai",
+        "input1": "phô mai",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vỉ nướng",
+        "input1": "vĩ nướng",
+        "isCorrect1_": true,
+        "isMissSpelling_": true
+      },
+      {
+        "value1": "đoàn lữ hành",
+        "input1": "đoàn lữ khách",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "rắn",
+        "input1": "rắn",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "xẻng",
+        "input1": "xẻng",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "mũ lưỡi trai",
+        "input1": "mũ lưỡi trai",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đặt chỗ",
+        "input1": "đặt chỗ",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ve",
+        "input1": "ve",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "viên gạch",
+        "input1": "viên gạch",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lơ lửng",
+        "input1": "lơ lửng",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự an toàn",
+        "input1": "sự an toàn",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vàng",
+        "input1": "vàng",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự xây dựng",
+        "input1": "sự xây dựng",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cánh quạt",
+        "input1": "cánh quạt",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "áo choàng tắm",
+        "input1": "áo choàng tắm",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thuốc nhuộm",
+        "input1": "thuốc nhuộm",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nhà hóa học",
+        "input1": "nhà hóa học",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cổng vòm",
+        "input1": "cổng vòm",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "trở thành",
+        "input1": "trở thành",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "mỏ neo",
+        "input1": "mỏ neo",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự chắc chắn",
+        "input1": "sự chắc chắn",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dàn hợp xướng",
+        "input1": "dàn hợp xướng",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "gây ra",
+        "input1": "gây ra",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đầm nước ngọt",
+        "input1": "đầm nước ngọt",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cột tháp",
+        "input1": "cột tháp",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "quảng trường",
+        "input1": "quảng trường",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "màu tím",
+        "input1": "màu tím",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thính phòng",
+        "input1": "thính phòng",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "người ác",
+        "input1": "người ác",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đồ da",
+        "input1": "đồ da",
+        "isCorrect1_": true,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bất động sản",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chuột đồng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vật gia truyền",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "khinh khí cầu",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự thán phục",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đồng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "công ty con",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "khuy măng sét",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cây anh túc",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "người mẫu",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vùng đất hoang",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thủ thư",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "rời đi",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "mỏ quặng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "kích thích",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "phần thưởng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lưỡi hái",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "máng gia súc",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sứ mệnh",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sàn nhà",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sổ cái",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hoa cúc dại",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đồn điền",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cành non",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tù nhân",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ao",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tay quay",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "viên ngọc quý",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "mạch điện tử",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lòng hiếu khách",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đinh",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bảng chữ cái",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thắt chặt",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự biến động",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "học",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lá hẹ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "phóng viên",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dựa vào",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "mong muốn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thác nước nhỏ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "máy bay phản lực",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cửa hàng nhỏ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tã lót",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "giảng viên",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "khuôn viên",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sao chép",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự đổi mới",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự khiêm tốn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ván lướt sóng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đồng hồ đeo tay",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vi trùng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bánh mì vòng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "người đàn ông",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ống dẫn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thú ăn kiến",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lớp học",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vùng ngoại ô",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "má",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự cho phép",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tiếp tuyến",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "rèm cửa",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dòi",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nhục đậu khấu",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chị em gái",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cơ sở vật chất",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "xoáy nước",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cây tuyết tùng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bến tàu",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "áp dụng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hầm mộ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cánh đồng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tượng chú lùn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "trận lụt",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "kính một tròng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "báo cáo",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "mẹo",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "găng tay liền ngón",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "phương tiện",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dép xăng đan",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tính phí",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cò",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chuỗi xích",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hành lý",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ngân hàng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lọ mực",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cánh tay",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bộ sạc",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "xe nôi",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thợ sửa nước",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nghe",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ngai vàng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chỗ nằm",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tranh cắt dán",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hang nhỏ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sân hiên",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bàn tay",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tốt nghiệp",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "xe mui kín",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "titan",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "luật sư tư vấn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "gác mái",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bản nháp",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sương mù khói",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tính cao quý",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thời hạn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bó hoa",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đậu Hà Lan",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dao rọc giấy",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vũng nước",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "loài rong",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nho",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nhân loại",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cưa xích",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "khoản chi tiêu",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vẹt đuôi dài",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thẻ xu",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ngỗng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự tuân thủ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "trường học",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thập kỷ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "quần đùi",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chai",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "kẹp giấy",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bồn rửa",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nữ cảnh sát",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chiếm hửu",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cờ vua",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự sáng tạo",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hoa ly",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dứa",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "kim cương",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "máy xay sinh tố",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đĩa ăn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lưu huỳnh",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự giải trí",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "quạt",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "giám sát trận đấu",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "kinh thánh",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "len",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "công trình",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bão",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tôm nước ngọt",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nhật thực",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "biến tần",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tòa án",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "phát ra",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vùng đất bao quanh",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "kỹ thuật khắc",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "quyền lưu giữ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "xe lăn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hạt sồi",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chủ thuê",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nhà thuốc",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự tính toán",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nghiêng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cấp cho",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "giấy gói",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tạp chí",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bưu kiện",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "yến mạch",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dâu lai",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "rây",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chạm",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "băng tích",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chuẩn bị",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cậu bé",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đài quan sát",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tắc kè hoa",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chân nến",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nệm",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "giấy da",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dây thừng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hương thơm ngát",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cỏ xạ hương",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "người vận chuyển",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "kết nối",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vỡ vụn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "giám mục",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "van",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "quốc ca",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vải nhân tạo",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chất khử trùng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vẽ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cà rốt",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lối đi nhỏ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hóa đơn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự nhẹ nhõm",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thợ đóng giày",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "điểm ảnh",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cây lau nhà",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "phù sa",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nồi hấp",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bụi bẩn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đuổi theo",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thịt xông khói",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "phôi thai",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hạt dẻ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "mứt",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ngôi đền",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lập trình viên",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sách giáo khoa",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tầm hiểu biết",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hệ quả",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ảnh hưởng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "kiến",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "trâm cài áo",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ghế đôi",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vách đứng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đàm phán",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hành tím",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sô cô la",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự kháng cự",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tán lá",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "rượu táo",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nhảy múa",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thằn lằn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vận may",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bảo tàng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nhà sản xuất",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ngũ cốc ăn sáng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bọ rùa",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "máy nghiền",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cho",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "quân đội",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chuồn chuồn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dung tích",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "gây hứng thú",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "một vi khuẩn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vĩ độ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dì",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "quán trọ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dưa hấu",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lời chỉ thị",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chăm sóc",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chuồng ngựa",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thương nhân",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "kích cỡ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ngã",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đầm lầy nước ngọt",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "con la",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hổ phách",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cò trắng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "con vẹt",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cánh cửa",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cốc đong",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự tận tụy",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đười ươi",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "súp lơ trắng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự ấm áp",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nước ngọt có ga",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chợ phiên",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dung môi",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vòi ống",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự trùng hợp",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đầu tư",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chiến lược gia",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "con đường",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chất cảm ứng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "địa điểm",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sợi đèn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "phiếu bầu",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hỗn hợp pha chế",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "va li",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sinh quyển",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "rệp vừng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hạt kê",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "giày ống",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lắc",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cào",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bướm đêm",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "gừng",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nông trại",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "gấu trúc",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "người mới học",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "giao quyền",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "buồng nhỏ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thùng rượu",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dao bếp",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "khoai tây",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "trình duyệt",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "thanh chống",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "con trai",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "eo đất",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tường rào",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "da",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sự rộng lớn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "công viên",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "may mắn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "hố",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nhà trẻ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "khe núi",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bọ ngựa",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bản phác thảo",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "xa lát",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "gấu bông",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "người gọi",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nghệ nhân",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ca sĩ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lưới đan",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bãi cỏ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "xẻng lật",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bánh sừng bò",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "áo giáp",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chim sơn ca",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "cây sáo",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "lông vũ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "tập giấy",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bắp ngô",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ngân sách",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "vận động viên",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dùi cui",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "sân vườn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "người phát thanh",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "đường ranh giới",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ốp gỗ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "bệ đỡ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "ván trượt",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "áo khoác ngắn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chim chào mào",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "nhà thờ lớn",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dừa",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "viên đá đặt nền",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "chim sẻ",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      },
+      {
+        "value1": "dấu hiệu",
+        "input1": "",
+        "isCorrect1_": false,
+        "isMissSpelling_": false
+      }
+    ]
+  }
